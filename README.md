@@ -7,3 +7,6 @@ In this assignment, we were tasked with creating a website to diplay our weather
     - Visualization Page (visuals of the selected data)
     - Comparisons Page (visuals of all plots to show a comparison between each)
     - Data Page (table of the data from the given CSV file)
+
+![Screen Shot 2021-05-03 at 10 07 49 PM](https://user-images.githubusercontent.com/23372412/116953741-040f1c80-ac5c-11eb-9054-09859245edc0.png)
+![Screen Shot 2021-05-03 at 10 08 29 PM](https://user-images.githubusercontent.com/23372412/116953776-1a1cdd00-ac5c-11eb-8795-d00a99990721.png)
